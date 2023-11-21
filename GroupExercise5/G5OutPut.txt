@@ -1,0 +1,48 @@
+﻿
+C:\Users\Gargi\CPP>GroupExercise5
+
+-------------------Welcome to Math Calculator----------------------
+Choose an operation to solve (addition/subtraction/multiplication/division): addition
+
+Enter your first number: 3.4
+
+Enter your second number: 6.7
+
+Your answer is: 10.1
+Your answer in int form is: 10
+Thanks for using the Math Calculator!.
+
+-------------------Welcome to Math Calculator----------------------
+Choose an operation to solve (addition/subtraction/multiplication/division): subtraction
+
+Enter your first number: 7.8
+
+Enter your second number: 3.1
+
+Your answer is: 4.7
+Your answer in int form is: 4
+Thanks for using the Math Calculator!.
+
+-------------------Welcome to Math Calculator----------------------
+Choose an operation to solve (addition/subtraction/multiplication/division): multiplication
+
+Enter your first number: 4.3
+
+Enter your second number: 9.8
+
+Your answer is: 42.14
+Your answer in int form is: 42
+Thanks for using the Math Calculator!.
+
+-------------------Welcome to Math Calculator----------------------
+Choose an operation to solve (addition/subtraction/multiplication/division): division
+
+Enter your first number: 4.5
+
+Enter your second number: 3
+
+Your answer is: 1 and your remainder is (calculated Mod): 1.5
+Your answer is: 1 and your remainder is (inbult fmod function): 1.5
+Your answer in int form is: 1 and your remainder in int form is : 1
+Thanks for using the Math Calculator!.
+
