@@ -1,0 +1,63 @@
+
+C:\Users\Gargi\CPP>GroupExercise3
+
+-------------------Welcome to Math Calculator----------------------
+Choose an operation to solve (addition/subtraction/multiplication/division): addition
+
+Enter your first number: 3
+
+Enter your second number: 20
+
+Your answer is: 23
+Thanks for using the Math Calculator!.
+
+C:\Users\Gargi\CPP>GroupExercise3
+-------------------Welcome to Math Calculator----------------------
+Choose an operation to solve (addition/subtraction/multiplication/division): subtraction
+
+Enter your first number: 23
+
+Enter your second number: 7
+
+Your answer is: 16
+Thanks for using the Math Calculator!.
+
+C:\Users\Gargi\CPP>GroupExercise3
+
+-------------------Welcome to Math Calculator----------------------
+Choose an operation to solve (addition/subtraction/multiplication/division): multiplication
+
+Enter your first number: 5
+
+Enter your second number: 6
+
+Your answer is: 30
+Thanks for using the Math Calculator!.
+
+
+C:\Users\Gargi\CPP>GroupExercise3
+
+-------------------Welcome to Math Calculator----------------------
+Choose an operation to solve (addition/subtraction/multiplication/division): division
+
+Enter your first number: 23
+
+Enter your second number: 5
+
+Your answer is: 4 and your remainder is (calculated Mod): 3
+Your answer is: 4 and your remainder is (inbult fmod function): 3
+Thanks for using the Math Calculator!.
+
+C:\Users\Gargi\CPP>GroupExercise3
+
+-------------------Welcome to Math Calculator----------------------
+Choose an operation to solve (addition/subtraction/multiplication/division): division
+
+Enter your first number: 23.5
+
+Enter your second number: 4.0
+
+Your answer is: 5 and your remainder is (calculated Mod): 3.5
+Your answer is: 5 and your remainder is (inbult fmod function): 3.5
+Thanks for using the Math Calculator!.
+
