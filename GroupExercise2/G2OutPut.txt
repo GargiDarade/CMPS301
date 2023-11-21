@@ -1,0 +1,13 @@
+
+C:\Users\Gargi\CPP>GroupExercise2
+
+Please enter first name: Gargi
+
+Please enter last name: Darade
+
+Please enter age in years: 19
+
+Please enter major: Computer Science
+
+Full Name: Gargi Darade, Age: 19, Major: Computer Science (CS).
+Improvised name: Dargi Garade.
