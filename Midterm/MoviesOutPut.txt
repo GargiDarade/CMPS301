@@ -1,0 +1,238 @@
+
+C:\Gargi\CMPS301\MidTerm>Movies
+
+****************************Welcome to Cinemark Theaters*****************************
+| Movie                                   | Time                                    |
+-------------------------------------------------------------------------------------
+| 1) Five Nights at Freddy's              | 12:35PM, 1:45PM, 3:10PM, 5:45PM         |
+-------------------------------------------------------------------------------------
+| 2) Freelance                            | 4:15PM                                  |
+-------------------------------------------------------------------------------------
+| 3) The Marvels                          | 2:00PM, 2:30PM, 3:00PM, 3:30PM          |
+-------------------------------------------------------------------------------------
+| 4) Shutter Island                       | 12:35PM, 1:45PM, 3:15PM, 5:45PM         |
+-------------------------------------------------------------------------------------
+| 5) Man of Steel                         | 12:15PM, 1:30PM, 3:15PM, 5:00PM         |
+-------------------------------------------------------------------------------------
+
+Please Enter your age: 10
+
+Please Enter the movie that you would like to watch(You can use either a number/index or name):
+2
+
+Please Enter the time of the movie (Eg. 2:00PM): 4:15PM
+
+Is the movie a blockbuster (y/n): n
+
+Do you prefer premium seating (y/n): n
+
+Total cost for viewing Freelance is $3
+Thank you for visiting Cinemark Theaters!
+
+
+C:\Gargi\CMPS301\MidTerm>Movies
+
+****************************Welcome to Cinemark Theaters*****************************
+| Movie                                   | Time                                    |
+-------------------------------------------------------------------------------------
+| 1) Five Nights at Freddy's              | 12:35PM, 1:45PM, 3:10PM, 5:45PM         |
+-------------------------------------------------------------------------------------
+| 2) Freelance                            | 4:15PM                                  |
+-------------------------------------------------------------------------------------
+| 3) The Marvels                          | 2:00PM, 2:30PM, 3:00PM, 3:30PM          |
+-------------------------------------------------------------------------------------
+| 4) Shutter Island                       | 12:35PM, 1:45PM, 3:15PM, 5:45PM         |
+-------------------------------------------------------------------------------------
+| 5) Man of Steel                         | 12:15PM, 1:30PM, 3:15PM, 5:00PM         |
+-------------------------------------------------------------------------------------
+
+Please Enter your age: 12
+
+Please Enter the movie that you would like to watch(You can use either a number/index or name):
+3
+
+Please Enter the time of the movie (Eg. 2:00PM): 2:00PM
+
+Is the movie a blockbuster (y/n): y
+
+Do you prefer premium seating (y/n): n
+
+Total cost for viewing The Marvels and being a blockbuster movie is $8
+Thank you for visiting Cinemark Theaters!
+
+C:\Gargi\CMPS301\MidTerm>Movies
+
+****************************Welcome to Cinemark Theaters*****************************
+| Movie                                   | Time                                    |
+-------------------------------------------------------------------------------------
+| 1) Five Nights at Freddy's              | 12:35PM, 1:45PM, 3:10PM, 5:45PM         |
+-------------------------------------------------------------------------------------
+| 2) Freelance                            | 4:15PM                                  |
+-------------------------------------------------------------------------------------
+| 3) The Marvels                          | 2:00PM, 2:30PM, 3:00PM, 3:30PM          |
+-------------------------------------------------------------------------------------
+| 4) Shutter Island                       | 12:35PM, 1:45PM, 3:15PM, 5:45PM         |
+-------------------------------------------------------------------------------------
+| 5) Man of Steel                         | 12:15PM, 1:30PM, 3:15PM, 5:00PM         |
+-------------------------------------------------------------------------------------
+
+Please Enter your age: 13
+
+Please Enter the movie that you would like to watch(You can use either a number/index or name):
+Freelance
+
+Please Enter the time of the movie (Eg. 2:00PM): 4:15PM
+
+Is the movie a blockbuster (y/n): n
+
+Do you prefer premium seating (y/n): Y
+
+Total cost for viewing Freelance with premium seating is $13
+
+C:\Gargi\CMPS301\MidTerm>Movies
+
+****************************Welcome to Cinemark Theaters*****************************
+| Movie                                   | Time                                    |
+-------------------------------------------------------------------------------------
+| 1) Five Nights at Freddy's              | 12:35PM, 1:45PM, 3:10PM, 5:45PM         |
+-------------------------------------------------------------------------------------
+| 2) Freelance                            | 4:15PM                                  |
+-------------------------------------------------------------------------------------
+| 3) The Marvels                          | 2:00PM, 2:30PM, 3:00PM, 3:30PM          |
+-------------------------------------------------------------------------------------
+| 4) Shutter Island                       | 12:35PM, 1:45PM, 3:15PM, 5:45PM         |
+-------------------------------------------------------------------------------------
+| 5) Man of Steel                         | 12:15PM, 1:30PM, 3:15PM, 5:00PM         |
+-------------------------------------------------------------------------------------
+
+Please Enter your age: 23
+
+Please Enter the movie that you would like to watch(You can use either a number/index or name):
+5
+
+Please Enter the time of the movie (Eg. 2:00PM): 2:00PM
+
+Is the movie a blockbuster (y/n): y
+
+Do you prefer premium seating (y/n): y
+
+Entered movie time is not valid, try again!
+
+C:\Gargi\CMPS301\MidTerm>Movies
+
+****************************Welcome to Cinemark Theaters*****************************
+| Movie                                   | Time                                    |
+-------------------------------------------------------------------------------------
+| 1) Five Nights at Freddy's              | 12:35PM, 1:45PM, 3:10PM, 5:45PM         |
+-------------------------------------------------------------------------------------
+| 2) Freelance                            | 4:15PM                                  |
+-------------------------------------------------------------------------------------
+| 3) The Marvels                          | 2:00PM, 2:30PM, 3:00PM, 3:30PM          |
+-------------------------------------------------------------------------------------
+| 4) Shutter Island                       | 12:35PM, 1:45PM, 3:15PM, 5:45PM         |
+-------------------------------------------------------------------------------------
+| 5) Man of Steel                         | 12:15PM, 1:30PM, 3:15PM, 5:00PM         |
+-------------------------------------------------------------------------------------
+
+Please Enter your age: 23
+
+Please Enter the movie that you would like to watch(You can use either a number/index or name):
+6
+
+Please Enter the time of the movie (Eg. 2:00PM): 2:00PM
+
+Is the movie a blockbuster (y/n): y
+
+Do you prefer premium seating (y/n): y
+
+Entered movie name is not valid, try again!
+
+C:\Gargi\CMPS301\MidTerm>Movies
+
+****************************Welcome to Cinemark Theaters*****************************
+| Movie                                   | Time                                    |
+-------------------------------------------------------------------------------------
+| 1) Five Nights at Freddy's              | 12:35PM, 1:45PM, 3:10PM, 5:45PM         |
+-------------------------------------------------------------------------------------
+| 2) Freelance                            | 4:15PM                                  |
+-------------------------------------------------------------------------------------
+| 3) The Marvels                          | 2:00PM, 2:30PM, 3:00PM, 3:30PM          |
+-------------------------------------------------------------------------------------
+| 4) Shutter Island                       | 12:35PM, 1:45PM, 3:15PM, 5:45PM         |
+-------------------------------------------------------------------------------------
+| 5) Man of Steel                         | 12:15PM, 1:30PM, 3:15PM, 5:00PM         |
+-------------------------------------------------------------------------------------
+
+Please Enter your age: 34
+
+Please Enter the movie that you would like to watch(You can use either a number/index or name):
+Shutter Island
+
+Please Enter the time of the movie (Eg. 2:00PM): 5:45PM
+
+Is the movie a blockbuster (y/n): y
+
+Do you prefer premium seating (y/n): y
+
+Total cost for viewing Shutter Island with premium seating and being a blockbuster movie is $18
+Thank you for visiting Cinemark Theaters!
+
+C:\Gargi\CMPS301\MidTerm>Movies
+
+****************************Welcome to Cinemark Theaters*****************************
+| Movie                                   | Time                                    |
+-------------------------------------------------------------------------------------
+| 1) Five Nights at Freddy's              | 12:35PM, 1:45PM, 3:10PM, 5:45PM         |
+-------------------------------------------------------------------------------------
+| 2) Freelance                            | 4:15PM                                  |
+-------------------------------------------------------------------------------------
+| 3) The Marvels                          | 2:00PM, 2:30PM, 3:00PM, 3:30PM          |
+-------------------------------------------------------------------------------------
+| 4) Shutter Island                       | 12:35PM, 1:45PM, 3:15PM, 5:45PM         |
+-------------------------------------------------------------------------------------
+| 5) Man of Steel                         | 12:15PM, 1:30PM, 3:15PM, 5:00PM         |
+-------------------------------------------------------------------------------------
+
+Please Enter your age: 70
+
+Please Enter the movie that you would like to watch(You can use either a number/index or name):
+4
+
+Please Enter the time of the movie (Eg. 2:00PM): 3:15PM
+
+Is the movie a blockbuster (y/n): y
+
+Do you prefer premium seating (y/n): n
+
+Total cost for viewing Shutter Island and being a blockbuster movie is $10
+Thank you for visiting Cinemark Theaters!
+
+C:\Gargi\CMPS301\MidTerm>Movies
+
+****************************Welcome to Cinemark Theaters*****************************
+| Movie                                   | Time                                    |
+-------------------------------------------------------------------------------------
+| 1) Five Nights at Freddy's              | 12:35PM, 1:45PM, 3:10PM, 5:45PM         |
+-------------------------------------------------------------------------------------
+| 2) Freelance                            | 4:15PM                                  |
+-------------------------------------------------------------------------------------
+| 3) The Marvels                          | 2:00PM, 2:30PM, 3:00PM, 3:30PM          |
+-------------------------------------------------------------------------------------
+| 4) Shutter Island                       | 12:35PM, 1:45PM, 3:15PM, 5:45PM         |
+-------------------------------------------------------------------------------------
+| 5) Man of Steel                         | 12:15PM, 1:30PM, 3:15PM, 5:00PM         |
+-------------------------------------------------------------------------------------
+
+Please Enter your age: 71
+
+Please Enter the movie that you would like to watch(You can use either a number/index or name):
+5
+
+Please Enter the time of the movie (Eg. 2:00PM): 3:15PM
+
+Is the movie a blockbuster (y/n): n
+
+Do you prefer premium seating (y/n): n
+
+Total cost for viewing Man of Steel is $5
+Thank you for visiting Cinemark Theaters!
