@@ -1,0 +1,65 @@
+
+C:\Gargi\CMPS301\GroupExercise7>GroupExercise7
+
+-----------------Costco Gasoline--------------------
+ Regular (R)                                      $4.55
+ Premium (P)                                      $4.85
+
+Please Choose a gas type:R
+
+Good choice! You are saving lots of money!
+How many gallons:5
+
+Your total is $22.75
+
+C:\Gargi\CMPS301\GroupExercise7>GroupExercise7
+
+
+-----------------Costco Gasoline--------------------
+ Regular (R)                                      $4.55
+ Premium (P)                                      $4.85
+
+Please Choose a gas type:Regular
+
+Good choice! You are saving lots of money!
+How many gallons:7
+
+Your total is $31.85
+
+C:\Gargi\CMPS301\GroupExercise7>GroupExercise7
+
+-----------------Costco Gasoline--------------------
+ Regular (R)                                      $4.55
+ Premium (P)                                      $4.85
+
+Please Choose a gas type:P
+
+You have chosen the most expensive gas!
+How many gallons:5
+
+Your total is $24.25
+
+
+C:\Gargi\CMPS301\GroupExercise7>GroupExercise7
+
+-----------------Costco Gasoline--------------------
+ Regular (R)                                      $4.55
+ Premium (P)                                      $4.85
+
+Please Choose a gas type:Premium
+
+You have chosen the most expensive gas!
+How many gallons:7
+
+Your total is $33.95
+
+
+C:\Gargi\CMPS301\GroupExercise7>GroupExercise7
+
+-----------------Costco Gasoline--------------------
+ Regular (R)                                      $4.55
+ Premium (P)                                      $4.85
+
+Please Choose a gas type:Reg
+
+The Gas Type that you have chosen is not a valid one. Please try again.
