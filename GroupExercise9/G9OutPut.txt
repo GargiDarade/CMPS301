@@ -1,0 +1,53 @@
+
+C:\Gargi\CMPS301\GroupExercise9>GroupExercise9
+
+   Welcome to Average Score Calculator!
+Please enter your name: Gargi
+
+Enter the course name: CMPS301
+
+Enter 10 scores of the assignment that is out of 100:
+89 90 97 90 96 95 89 99 100 94
+
+The average score of  is 93.90%, which is the letter grade of A.
+Thank you for using our calculator!
+
+C:\Gargi\CMPS301\GroupExercise9>GroupExercise9
+
+   Welcome to Average Score Calculator!
+Please enter your name: Aditi
+
+Enter the course name: CMPS301
+
+Enter 10 scores of the assignment that is out of 100:
+10 20 30 40 50 60 55 56 57 58
+
+The average score of  is 43.60%, which is the letter grade of F.
+Thank you for using our calculator!
+
+C:\Gargi\CMPS301\GroupExercise9>GroupExercise9
+
+   Welcome to Average Score Calculator!
+Please enter your name: Asha
+
+Enter the course name: CMPS301
+
+Enter 10 scores of the assignment that is out of 100:
+99 98 97 98 99 97 99 98 97 99
+
+The average score of  is 98.10%, which is the letter grade of A+.
+Thank you for using our calculator!
+
+
+C:\Gargi\CMPS301\GroupExercise9>GroupExercise9
+
+   Welcome to Average Score Calculator!
+Please enter your name: Sunil
+
+Enter the course name: CMPS301
+
+Enter 10 scores of the assignment that is out of 100:
+89 87 86 85 84 85 83 84 85 86
+
+The average score of  is 85.40%, which is the letter grade of B.
+Thank you for using our calculator!
