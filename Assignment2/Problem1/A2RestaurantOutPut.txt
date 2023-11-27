@@ -1,0 +1,127 @@
+
+C:\Gargi\CMPS301\Assignment2\Problem1>Assignment2Restaurant
+
+************Welcome to Discovery Bay Golf and Country Club Restaurant*********
+| Meal                                                         | Price       |
+******************************************************************************
+| Discovery Bay Burger (B)                                     | $15         |
+******************************************************************************
+| TURKEY, BACON & AVOCADO (T)                                  | $16         |
+******************************************************************************
+| GRILLED CHICKEN SANDWICH (C)                                 | $15.99      |
+******************************************************************************
+| FISH & CHIPS (F)                                             | $16.5       |
+******************************************************************************
+| Desert                                                       | Price       |
+******************************************************************************
+| Pie (P)                                                      | $5          |
+******************************************************************************
+| ICE CREAM (I)                                                | $3          |
+******************************************************************************
+| COOKIES (CO)                                                 | $3          |
+******************************************************************************
+| Cup of Fresh Fruit (FF)                                      | $2.5        |
+******************************************************************************
+
+Please Enter a Meal that you would like to order: B
+
+Please Enter a Desert that you would like to order:P
+
+Your Selection of meal is Discovery Bay Burger (B) and of desert is Pie (P)
+Your total price of meal and desert is : $20.00
+Your total sales tax on meal and desert with the rate of 5.00% per order is : $1.00
+Your total value/price including sales tax is : $21.00
+Your total of $21.00 this will go to member charge!
+Thank you for dining with us at Discovery Bay Golf and Country Club!
+
+C:\Gargi\CMPS301\Assignment2\Problem1>Assignment2Restaurant
+
+************Welcome to Discovery Bay Golf and Country Club Restaurant*********
+| Meal                                                         | Price       |
+******************************************************************************
+| Discovery Bay Burger (B)                                     | $15         |
+******************************************************************************
+| TURKEY, BACON & AVOCADO (T)                                  | $16         |
+******************************************************************************
+| GRILLED CHICKEN SANDWICH (C)                                 | $15.99      |
+******************************************************************************
+| FISH & CHIPS (F)                                             | $16.5       |
+******************************************************************************
+| Desert                                                       | Price       |
+******************************************************************************
+| Pie (P)                                                      | $5          |
+******************************************************************************
+| ICE CREAM (I)                                                | $3          |
+******************************************************************************
+| COOKIES (CO)                                                 | $3          |
+******************************************************************************
+| Cup of Fresh Fruit (FF)                                      | $2.5        |
+******************************************************************************
+
+Please Enter a Meal that you would like to order: F
+
+Please Enter a Desert that you would like to order:FF
+
+Your Selection of meal is FISH & CHIPS (F) and of desert is Cup of Fresh Fruit (FF)
+Your total price of meal and desert is : $19.00
+Your total sales tax on meal and desert with the rate of 5.00% per order is : $0.95
+Your total value/price including sales tax is : $19.95
+Your total of $19.95 this will go to member charge!
+Thank you for dining with us at Discovery Bay Golf and Country Club!
+
+C:\Gargi\CMPS301\Assignment2\Problem1>Assignment2Restaurant
+
+************Welcome to Discovery Bay Golf and Country Club Restaurant*********
+| Meal                                                         | Price       |
+******************************************************************************
+| Discovery Bay Burger (B)                                     | $15         |
+******************************************************************************
+| TURKEY, BACON & AVOCADO (T)                                  | $16         |
+******************************************************************************
+| GRILLED CHICKEN SANDWICH (C)                                 | $15.99      |
+******************************************************************************
+| FISH & CHIPS (F)                                             | $16.5       |
+******************************************************************************
+| Desert                                                       | Price       |
+******************************************************************************
+| Pie (P)                                                      | $5          |
+******************************************************************************
+| ICE CREAM (I)                                                | $3          |
+******************************************************************************
+| COOKIES (CO)                                                 | $3          |
+******************************************************************************
+| Cup of Fresh Fruit (FF)                                      | $2.5        |
+******************************************************************************
+
+Please Enter a Meal that you would like to order: C
+
+Please Enter a Desert that you would like to order:C
+
+The Desert Type that you have chosen is not a valid one. Please try again.
+C:\Gargi\CMPS301\Assignment2\Problem1>Assignment2Restaurant
+
+************Welcome to Discovery Bay Golf and Country Club Restaurant*********
+| Meal                                                         | Price       |
+******************************************************************************
+| Discovery Bay Burger (B)                                     | $15         |
+******************************************************************************
+| TURKEY, BACON & AVOCADO (T)                                  | $16         |
+******************************************************************************
+| GRILLED CHICKEN SANDWICH (C)                                 | $15.99      |
+******************************************************************************
+| FISH & CHIPS (F)                                             | $16.5       |
+******************************************************************************
+| Desert                                                       | Price       |
+******************************************************************************
+| Pie (P)                                                      | $5          |
+******************************************************************************
+| ICE CREAM (I)                                                | $3          |
+******************************************************************************
+| COOKIES (CO)                                                 | $3          |
+******************************************************************************
+| Cup of Fresh Fruit (FF)                                      | $2.5        |
+******************************************************************************
+
+Please Enter a Meal that you would like to order: A
+
+The Meal Type that you have chosen is not a valid one. Please try again.
