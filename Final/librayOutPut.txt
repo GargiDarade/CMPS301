@@ -1,0 +1,320 @@
+
+C:\Gargi\CMPS301\MidTerm>library
+
+ Welcome to Wilson Library!
+ Please select the following options:
+ 1 - Add a Book
+ 2 - Edit a Book
+ 3 - Search a Book
+ 4 - Delete a Book
+ 5 - Check out a Book
+ 6 - Display all Books
+ 7 - Exit
+ Please enter your option:1
+
+Enter Book Name: Ikigai
+
+Enter Author Name: Francesc Miralles
+
+Book has been successfully added! Press any key to continue . . .
+
+
+ Welcome to Wilson Library!
+ Please select the following options:
+ 1 - Add a Book
+ 2 - Edit a Book
+ 3 - Search a Book
+ 4 - Delete a Book
+ 5 - Check out a Book
+ 6 - Display all Books
+ 7 - Exit
+ Please enter your option:6
+
+------------------------------------------ All books in the library. ----------------------------------------------------------
+| Book                                                        | Author                        | check out by                  |
+-------------------------------------------------------------------------------------------------------------------------------
+| 1) C++ Programming Program Design Including Data Structures | D.S. Malik                    |                               |
+-------------------------------------------------------------------------------------------------------------------------------
+| 2) Man's Search For Meaning                                 |  Victor E. Frankl             |                               |
+-------------------------------------------------------------------------------------------------------------------------------
+| 3) Think And Grow Rich                                      | Napoleon Hill                 |                               |
+-------------------------------------------------------------------------------------------------------------------------------
+| 4) Who Moved My Cheese                                      | Dr Spencer Johnson            |                               |
+-------------------------------------------------------------------------------------------------------------------------------
+| 5) Rich Dad Poor Dad                                        | Robert Kiyosaki               |                               |
+-------------------------------------------------------------------------------------------------------------------------------
+| 6) The 7 Habits Of Highly Effective People                  | Stephen Covey                 |                               |
+-------------------------------------------------------------------------------------------------------------------------------
+| 7) How to stop worrying and start living                    | Dale Carnegie                 |                               |
+-------------------------------------------------------------------------------------------------------------------------------
+| 8) The Monk Who Sold His Ferrari                            | Robin Sharma                  |                               |
+-------------------------------------------------------------------------------------------------------------------------------
+| 9) Ikigai                                                   | Francesc Miralles             |                               |
+-------------------------------------------------------------------------------------------------------------------------------
+
+ Welcome to Wilson Library!
+ Please select the following options:
+ 1 - Add a Book
+ 2 - Edit a Book
+ 3 - Search a Book
+ 4 - Delete a Book
+ 5 - Check out a Book
+ 6 - Display all Books
+ 7 - Exit
+  Please enter your option:1
+
+Enter Book Name: Story book:
+
+Enter Author Name:  Dipavaliiii Sen
+
+Book has been successfully added! Press any key to continue . . .
+
+ Welcome to Wilson Library!
+ Please select the following options:
+ 1 - Add a Book
+ 2 - Edit a Book
+ 3 - Search a Book
+ 4 - Delete a Book
+ 5 - Check out a Book
+ 6 - Display all Books
+ 7 - Exit
+ Please enter your option:6
+
+------------------------------------------ All books in the library. ----------------------------------------------------------
+| Book                                                        | Author                        | check out by                  |
+-------------------------------------------------------------------------------------------------------------------------------
+| 1) C++ Programming Program Design Including Data Structures | D.S. Malik                    |                               |
+-------------------------------------------------------------------------------------------------------------------------------
+| 2) Man's Search For Meaning                                 |  Victor E. Frankl             |                               |
+-------------------------------------------------------------------------------------------------------------------------------
+| 3) Think And Grow Rich                                      | Napoleon Hill                 |                               |
+-------------------------------------------------------------------------------------------------------------------------------
+| 4) Who Moved My Cheese                                      | Dr Spencer Johnson            |                               |
+-------------------------------------------------------------------------------------------------------------------------------
+| 5) Rich Dad Poor Dad                                        | Robert Kiyosaki               |                               |
+-------------------------------------------------------------------------------------------------------------------------------
+| 6) The 7 Habits Of Highly Effective People                  | Stephen Covey                 |                               |
+-------------------------------------------------------------------------------------------------------------------------------
+| 7) How to stop worrying and start living                    | Dale Carnegie                 |                               |
+-------------------------------------------------------------------------------------------------------------------------------
+| 8) The Monk Who Sold His Ferrari                            | Robin Sharma                  |                               |
+-------------------------------------------------------------------------------------------------------------------------------
+| 9) Ikigai                                                   | Francesc Miralles             |                               |
+-------------------------------------------------------------------------------------------------------------------------------
+| 10) Story book:                                             |  Dipavaliiii Sen              |                               |
+-------------------------------------------------------------------------------------------------------------------------------
+
+ Welcome to Wilson Library!
+ Please select the following options:
+ 1 - Add a Book
+ 2 - Edit a Book
+ 3 - Search a Book
+ 4 - Delete a Book
+ 5 - Check out a Book
+ 6 - Display all Books
+ 7 - Exit
+ Please enter your option:2
+
+Enter Book Name: Story book:
+
+Book Name: Story book:
+Does this look good to you (Yes/No): No
+
+
+Enter Book Name: Story book
+
+You have successfully edited the Book Name! Press any key to continue . . .
+
+Author Name:  Dipavaliiii Sen
+Does this look good to you (Yes/No): No
+
+
+Enter Author Name: Dipavali Sen
+
+You have successfully edited the Author Name! Press any key to continue . . .
+
+ Welcome to Wilson Library!
+ Please select the following options:
+ 1 - Add a Book
+ 2 - Edit a Book
+ 3 - Search a Book
+ 4 - Delete a Book
+ 5 - Check out a Book
+ 6 - Display all Books
+ 7 - Exit
+ Please enter your option:6
+
+------------------------------------------ All books in the library. ----------------------------------------------------------
+| Book                                                        | Author                        | check out by                  |
+-------------------------------------------------------------------------------------------------------------------------------
+| 1) C++ Programming Program Design Including Data Structures | D.S. Malik                    |                               |
+-------------------------------------------------------------------------------------------------------------------------------
+| 2) Man's Search For Meaning                                 |  Victor E. Frankl             |                               |
+-------------------------------------------------------------------------------------------------------------------------------
+| 3) Think And Grow Rich                                      | Napoleon Hill                 |                               |
+-------------------------------------------------------------------------------------------------------------------------------
+| 4) Who Moved My Cheese                                      | Dr Spencer Johnson            |                               |
+-------------------------------------------------------------------------------------------------------------------------------
+| 5) Rich Dad Poor Dad                                        | Robert Kiyosaki               |                               |
+-------------------------------------------------------------------------------------------------------------------------------
+| 6) The 7 Habits Of Highly Effective People                  | Stephen Covey                 |                               |
+-------------------------------------------------------------------------------------------------------------------------------
+| 7) How to stop worrying and start living                    | Dale Carnegie                 |                               |
+-------------------------------------------------------------------------------------------------------------------------------
+| 8) The Monk Who Sold His Ferrari                            | Robin Sharma                  |                               |
+-------------------------------------------------------------------------------------------------------------------------------
+| 9) Ikigai                                                   | Francesc Miralles             |                               |
+-------------------------------------------------------------------------------------------------------------------------------
+| 10) Story book                                              | Dipavali Sen                  |                               |
+-------------------------------------------------------------------------------------------------------------------------------
+
+ Welcome to Wilson Library!
+ Please select the following options:
+ 1 - Add a Book
+ 2 - Edit a Book
+ 3 - Search a Book
+ 4 - Delete a Book
+ 5 - Check out a Book
+ 6 - Display all Books
+ 7 - Exit
+ Please enter your option:3
+
+Enter Book Name: Iki
+
+Book name is not found! Press any key to continue . . .
+
+ Welcome to Wilson Library!
+ Please select the following options:
+ 1 - Add a Book
+ 2 - Edit a Book
+ 3 - Search a Book
+ 4 - Delete a Book
+ 5 - Check out a Book
+ 6 - Display all Books
+ 7 - Exit
+ Please enter your option:3
+
+Enter Book Name: Ikigai
+
+Book Name: Ikigai
+Author Name: Francesc Miralles
+Press any key to continue . . .
+
+ Welcome to Wilson Library!
+ Please select the following options:
+ 1 - Add a Book
+ 2 - Edit a Book
+ 3 - Search a Book
+ 4 - Delete a Book
+ 5 - Check out a Book
+ 6 - Display all Books
+ 7 - Exit
+ Please enter your option:5
+
+Enter Book Name: Story book
+
+
+Enter the name of the person: Gargi Darade
+
+You have successfully checked out Book, Story book by Dipavali Sen
+Press any key to continue . . .
+
+ Welcome to Wilson Library!
+ Please select the following options:
+ 1 - Add a Book
+ 2 - Edit a Book
+ 3 - Search a Book
+ 4 - Delete a Book
+ 5 - Check out a Book
+ 6 - Display all Books
+ 7 - Exit
+ Please enter your option:6
+
+------------------------------------------ All books in the library. ----------------------------------------------------------
+| Book                                                        | Author                        | check out by                  |
+-------------------------------------------------------------------------------------------------------------------------------
+| 1) C++ Programming Program Design Including Data Structures | D.S. Malik                    |                               |
+-------------------------------------------------------------------------------------------------------------------------------
+| 2) Man's Search For Meaning                                 |  Victor E. Frankl             |                               |
+-------------------------------------------------------------------------------------------------------------------------------
+| 3) Think And Grow Rich                                      | Napoleon Hill                 |                               |
+-------------------------------------------------------------------------------------------------------------------------------
+| 4) Who Moved My Cheese                                      | Dr Spencer Johnson            |                               |
+-------------------------------------------------------------------------------------------------------------------------------
+| 5) Rich Dad Poor Dad                                        | Robert Kiyosaki               |                               |
+-------------------------------------------------------------------------------------------------------------------------------
+| 6) The 7 Habits Of Highly Effective People                  | Stephen Covey                 |                               |
+-------------------------------------------------------------------------------------------------------------------------------
+| 7) How to stop worrying and start living                    | Dale Carnegie                 |                               |
+-------------------------------------------------------------------------------------------------------------------------------
+| 8) The Monk Who Sold His Ferrari                            | Robin Sharma                  |                               |
+-------------------------------------------------------------------------------------------------------------------------------
+| 9) Ikigai                                                   | Francesc Miralles             |                               |
+-------------------------------------------------------------------------------------------------------------------------------
+| 10) Story book                                              | Dipavali Sen                  | Gargi Darade                  |
+-------------------------------------------------------------------------------------------------------------------------------
+
+ Welcome to Wilson Library!
+ Please select the following options:
+ 1 - Add a Book
+ 2 - Edit a Book
+ 3 - Search a Book
+ 4 - Delete a Book
+ 5 - Check out a Book
+ 6 - Display all Books
+ 7 - Exit
+  Please enter your option:4
+
+Enter Book Name: Story book
+
+Book has been deleted from the inventory! Press any key to continue . . .
+
+ Welcome to Wilson Library!
+ Please select the following options:
+ 1 - Add a Book
+ 2 - Edit a Book
+ 3 - Search a Book
+ 4 - Delete a Book
+ 5 - Check out a Book
+ 6 - Display all Books
+ 7 - Exit
+ Please enter your option:6
+
+------------------------------------------ All books in the library. ----------------------------------------------------------
+| Book                                                        | Author                        | check out by                  |
+-------------------------------------------------------------------------------------------------------------------------------
+| 1) C++ Programming Program Design Including Data Structures | D.S. Malik                    |                               |
+-------------------------------------------------------------------------------------------------------------------------------
+| 2) Man's Search For Meaning                                 |  Victor E. Frankl             |                               |
+-------------------------------------------------------------------------------------------------------------------------------
+| 3) Think And Grow Rich                                      | Napoleon Hill                 |                               |
+-------------------------------------------------------------------------------------------------------------------------------
+| 4) Who Moved My Cheese                                      | Dr Spencer Johnson            |                               |
+-------------------------------------------------------------------------------------------------------------------------------
+| 5) Rich Dad Poor Dad                                        | Robert Kiyosaki               |                               |
+-------------------------------------------------------------------------------------------------------------------------------
+| 6) The 7 Habits Of Highly Effective People                  | Stephen Covey                 |                               |
+-------------------------------------------------------------------------------------------------------------------------------
+| 7) How to stop worrying and start living                    | Dale Carnegie                 |                               |
+-------------------------------------------------------------------------------------------------------------------------------
+| 8) The Monk Who Sold His Ferrari                            | Robin Sharma                  |                               |
+-------------------------------------------------------------------------------------------------------------------------------
+| 9) Ikigai                                                   | Francesc Miralles             |                               |
+-------------------------------------------------------------------------------------------------------------------------------
+| 10)                                                         |                               |                               |
+-------------------------------------------------------------------------------------------------------------------------------
+
+ Welcome to Wilson Library!
+ Please select the following options:
+ 1 - Add a Book
+ 2 - Edit a Book
+ 3 - Search a Book
+ 4 - Delete a Book
+ 5 - Check out a Book
+ 6 - Display all Books
+ 7 - Exit
+ Please enter your option:7
+
+Thank you for using Wilson Library!
+
+
